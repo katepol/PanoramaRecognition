@@ -1,0 +1,3 @@
+The task was taken from Yandex contest Internet Mathematics 2011 (http://imat2011.yandex.ru/).
+Image data sets are sourced from panoramic images. The data set consists of 6000 series, 5 images each. The images are in the JPEG format with resolution 300 * 300 pixels. Each series contains matching fragments of a panoramic image with a partial overlap (possibly in the wrong order). Some series may contain one or two images from other series.
+The task is to find these odd fragments using fully automated methods.
