@@ -1,0 +1,207 @@
+(StartSet, FinishSet,
+LastMinSquaredDistancePercent, HessianTreshold, CvSurfParamsExtended
+matchLimit)
+1, 101, 0.2, 500, 0, 0.46; mark = -1; time elapsed 186s; Thu May 12 23:17:34 2011
+
+time per set 1.76s, nThreads = 100; time elapsed 176s; Thu May 12 23:27:06 2011
+
+time per set 1.81s, nThreads = 50; time elapsed 181s; Thu May 12 23:33:12 2011
+
+time per set 3.43s, nThreads = 20; time elapsed 343s; Thu May 12 23:39:40 2011
+
+time per set 3.1s, nThreads = 20; time elapsed 310s; Thu May 12 23:40:44 2011
+
+time per set 1.85s, nThreads = 20, nSetsPerThread = 10; time elapsed 185s; Thu May 12 23:55:58 2011
+
+time per set 1.7246s, nThreads = 100, nSetsPerThread = 20; time elapsed 8623s = 2h 25m; Fri May 13 02:21:57 2011
+
+time per set 3.11111s, nThreads = 100, nSetsPerThread = 20; time elapsed 28s; Fri May 13 23:56:02 2011
+1, 10, 0.2, 500, 0, 0.46; mark = 1; time elapsed 28s; Fri May 13 23:56:02 2011
+
+time per set 2.22222s, nThreads = 10, nSetsPerThread = 10; time elapsed 220s; Sat May 14 00:02:53 2011
+1, 100, 0.2, 500, 0, 0.46; mark = 0.666667; time elapsed 220s; Sat May 14 00:02:53 2011
+
+time per set 2.34694s, nThreads = 10, nSetsPerThread = 10; time elapsed 115s; Sat May 14 00:06:25 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.722449; time elapsed 115s; Sat May 14 00:06:25 2011
+
+time per set 2.40816s, nThreads = 10, nSetsPerThread = 5; time elapsed 118s; Sat May 14 00:12:10 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.869388; time elapsed 118s; Sat May 14 00:12:10 2011
+
+time per set 2.02041s, nThreads = 10, nSetsPerThread = 2; time elapsed 99s; Sat May 14 00:17:42 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.853061; time elapsed 99s; Sat May 14 00:17:42 2011
+
+time per set 1.77551s, nThreads = 5, nSetsPerThread = 2; time elapsed 87s; Sat May 14 00:22:16 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.767347; time elapsed 87s; Sat May 14 00:22:16 2011
+
+time per set 1.87755s, nThreads = 5, nSetsPerThread = 2; time elapsed 92s; Sat May 14 00:31:05 2011 +TM
+1, 50, 0.2, 500, 0, 0.46; mark = 0.771429; time elapsed 92s; Sat May 14 00:31:05 2011
+
+time per set 2.12245s, nThreads = 5, nSetsPerThread = 2; time elapsed 104s; Sat May 14 00:41:35 2011 -TM
+1, 50, 0.2, 500, 0, 0.46; mark = 0.836735; time elapsed 104s; Sat May 14 00:41:35 2011
+
+time per set 1.83673s, nThreads = 5, nSetsPerThread = 2; time elapsed 90s; Sat May 14 00:44:40 2011 -TM +addToSet
+1, 50, 0.2, 500, 0, 0.46; mark = 0.844898; time elapsed 90s; Sat May 14 00:44:40 2011
+
+time per set 1.7551s, nThreads = 5, nSetsPerThread = 2; time elapsed 86s; Sat May 14 00:47:42 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.783673; time elapsed 86s; Sat May 14 00:47:42 2011
+
+time per set 1.7551s, nThreads = 5, nSetsPerThread = 2; time elapsed 86s; Sun May 15 12:42:54 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.853061; time elapsed 86s; Sun May 15 12:42:54 2011
+
+time per set 1.83673s, nThreads = 5, nSetsPerThread = 2; time elapsed 90s; Sun May 15 12:50:17 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.836735; time elapsed 90s; Sun May 15 12:50:17 2011
+
+time per set 1.89796s, nThreads = 5, nSetsPerThread = 2; time elapsed 93s; Sun May 15 12:55:20 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.8; time elapsed 93s; Sun May 15 12:55:20 2011
+
+time per set 1.71429s, nThreads = 5, nSetsPerThread = 2; time elapsed 84s; Sun May 15 13:02:00 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.697959; time elapsed 84s; Sun May 15 13:02:00 2011
+
+time per set 1.7551s, nThreads = 5, nSetsPerThread = 2; time elapsed 86s; Sun May 15 13:04:04 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.812245; time elapsed 86s; Sun May 15 13:04:04 2011
+
+time per set 1.81633s, nThreads = 5, nSetsPerThread = 2; time elapsed 89s; Sun May 15 13:07:37 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.693878; time elapsed 89s; Sun May 15 13:07:37 2011
+
+time per set 1.77551s, nThreads = 5, nSetsPerThread = 2; time elapsed 87s; Sun May 15 13:10:09 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.820408; time elapsed 87s; Sun May 15 13:10:09 2011
+
+time per set 1.83673s, nThreads = 5, nSetsPerThread = 2; time elapsed 90s; Sun May 15 13:12:56 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.820408; time elapsed 90s; Sun May 15 13:12:56 2011
+
+time per set 1.73469s, nThreads = 5, nSetsPerThread = 2; time elapsed 85s; Sun May 15 13:16:38 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.853061; time elapsed 85s; Sun May 15 13:16:38 2011
+
+time per set 1.69388s, nThreads = 5, nSetsPerThread = 2; time elapsed 83s; Sun May 15 13:28:23 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.804082; time elapsed 83s; Sun May 15 13:28:23 2011
+
+time per set 1.73469s, nThreads = 5, nSetsPerThread = 2; time elapsed 85s; Sun May 15 13:33:28 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.820408; time elapsed 85s; Sun May 15 13:33:28 2011
+
+time per set 3.42857s, nThreads = 5, nSetsPerThread = 2; time elapsed 168s; Sun May 15 13:41:18 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.808163; time elapsed 168s; Sun May 15 13:41:18 2011
+
+time per set 3.66667s, nThreads = 5, nSetsPerThread = 2; time elapsed 33s; Sun May 15 13:42:42 2011
+1, 10, 0.2, 500, 0, 0.46; mark = 0.644444; time elapsed 33s; Sun May 15 13:42:42 2011
+
+time per set 3.7s, nThreads = 5, nSetsPerThread = 2; time elapsed 37s; Sun May 15 13:44:50 2011
+1, 11, 0.2, 500, 0, 0.46; mark = 1; time elapsed 37s; Sun May 15 13:44:50 2011
+
+time per set 3.42857s, nThreads = 5, nSetsPerThread = 2; time elapsed 168s; Sun May 15 13:48:37 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.832653; time elapsed 168s; Sun May 15 13:48:37 2011
+
+time per set 3.85714s, nThreads = 5, nSetsPerThread = 2; time elapsed 189s; Sun May 15 13:52:57 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.832653; time elapsed 189s; Sun May 15 13:52:57 2011
+
+time per set 1.69388s, nThreads = 5, nSetsPerThread = 2; time elapsed 83s; Sun May 15 13:58:16 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.836735; time elapsed 83s; Sun May 15 13:58:16 2011
+
+time per set 1.7551s, nThreads = 5, nSetsPerThread = 2; time elapsed 86s; Sun May 15 14:01:50 2011
+1, 50, 0.2, 500, 0, 0.46; mark = 0.836735; time elapsed 86s; Sun May 15 14:01:50 2011
+
+time per set 1.9s, nThreads = 5, nSetsPerThread = 2; time elapsed 19s; Sun May 15 14:02:48 2011
+1, 11, 0.2, 500, 0, 0.46; mark = 1; time elapsed 19s; Sun May 15 14:02:48 2011
+
+time per set 2.4s, nThreads = 5, nSetsPerThread = 2; time elapsed 24s; Sun May 15 14:03:53 2011
+1, 11, 0.2, 500, 1, 0.46; mark = 1; time elapsed 24s; Sun May 15 14:03:53 2011
+
+time per set 2.42s, nThreads = 5, nSetsPerThread = 2; time elapsed 121s; Sun May 15 14:06:17 2011
+1, 51, 0.2, 500, 1, 0.46; mark = 0.864; time elapsed 121s; Sun May 15 14:06:17 2011
+
+time per set 2.6s, nThreads = 5, nSetsPerThread = 2; time elapsed 130s; Sun May 15 14:09:32 2011
+1, 51, 0.2, 450, 1, 0.46; mark = 0.856; time elapsed 130s; Sun May 15 14:09:32 2011
+
+time per set 2.62s, nThreads = 5, nSetsPerThread = 2; time elapsed 131s; Sun May 15 14:12:10 2011
+1, 51, 0.2, 400, 1, 0.46; mark = 0.816; time elapsed 131s; Sun May 15 14:12:10 2011
+
+time per set 2.16s, nThreads = 5, nSetsPerThread = 2; time elapsed 108s; Sun May 15 14:14:59 2011
+1, 51, 0.2, 550, 1, 0.46; mark = 0.828; time elapsed 108s; Sun May 15 14:14:59 2011
+
+time per set 2.24s, nThreads = 5, nSetsPerThread = 2; time elapsed 112s; Sun May 15 14:19:31 2011
+1, 51, 0.1, 500, 1, 0.46; mark = 0.708; time elapsed 112s; Sun May 15 14:19:31 2011
+
+time per set 2.2s, nThreads = 5, nSetsPerThread = 2; time elapsed 110s; Sun May 15 14:28:36 2011
+1, 51, 0.3, 500, 1, 0.46; mark = 0.868; time elapsed 110s; Sun May 15 14:28:36 2011
+
+time per set 2.28s, nThreads = 5, nSetsPerThread = 2; time elapsed 114s; Sun May 15 14:31:14 2011
+1, 51, 0.4, 500, 1, 0.46; mark = 0.872; time elapsed 114s; Sun May 15 14:31:14 2011
+
+time per set 2.44s, nThreads = 5, nSetsPerThread = 2; time elapsed 122s; Sun May 15 14:34:46 2011
+1, 51, 0.5, 500, 1, 0.46; mark = 0.868; time elapsed 122s; Sun May 15 14:34:46 2011
+
+time per set 2.26s, nThreads = 5, nSetsPerThread = 2; time elapsed 113s; Sun May 15 14:38:16 2011
+1, 51, 0.4, 500, 1, 0.4; mark = 0.872; time elapsed 113s; Sun May 15 14:38:16 2011
+
+time per set 2.36s, nThreads = 5, nSetsPerThread = 2; time elapsed 118s; Sun May 15 14:40:43 2011
+1, 51, 0.4, 500, 1, 0.3; mark = 0.876; time elapsed 118s; Sun May 15 14:40:43 2011
+
+time per set 2.36s, nThreads = 5, nSetsPerThread = 2; time elapsed 118s; Sun May 15 14:43:40 2011
+1, 51, 0.4, 500, 1, 0.25; mark = 0.888; time elapsed 118s; Sun May 15 14:43:40 2011
+
+time per set 2.32s, nThreads = 5, nSetsPerThread = 2; time elapsed 116s; Sun May 15 14:46:27 2011
+1, 51, 0.4, 500, 1, 0.2; mark = 0.88; time elapsed 116s; Sun May 15 14:46:27 2011
+
+time per set 2.38s, nThreads = 5, nSetsPerThread = 2; time elapsed 119s; Sun May 15 14:51:42 2011
+1, 51, 0.4, 500, 1, 0.25; mark = 0.888; time elapsed 119s; Sun May 15 14:51:42 2011
+
+time per set 3.08s, nThreads = 5, nSetsPerThread = 2; time elapsed 154s; Sun May 15 15:10:29 2011
+1, 51, 0.4, 500, 1, 0.25; mark = 0.84; time elapsed 154s; Sun May 15 15:10:29 2011
+
+time per set 3.14286s, nThreads = 5, nSetsPerThread = 2; time elapsed 132s; Sun May 15 16:32:15 2011
+9, 51, 0.4, 500, 1, 0.41; mark = 0.761905; time elapsed 132s; Sun May 15 16:32:15 2011
+
+time per set 3.04762s, nThreads = 5, nSetsPerThread = 2; time elapsed 128s; Sun May 15 16:35:16 2011
+9, 51, 0.4, 500, 1, 0.25; mark = 0.819048; time elapsed 128s; Sun May 15 16:35:16 2011
+
+time per set 2.98s, nThreads = 5, nSetsPerThread = 2; time elapsed 149s; Sun May 15 16:48:52 2011
+1, 51, 0.4, 500, 1, 0.25; mark = 0.84; time elapsed 149s; Sun May 15 16:48:52 2011
+
+time per set 2.74s, nThreads = 5, nSetsPerThread = 2; time elapsed 137s; Sun May 15 16:53:57 2011
+1, 51, 0.4, 500, 1, 0.25; mark = 0.888; time elapsed 137s; Sun May 15 16:53:57 2011
+
+time per set 2.82s, nThreads = 5, nSetsPerThread = 5; time elapsed 141s; Sun May 15 23:55:42 2011
+1, 51, 0.4, 500, 1, 0.25; mark = 0.888; time elapsed 141s; Sun May 15 23:55:42 2011
+
+time per set 2.42s, nThreads = 5, nSetsPerThread = 5; time elapsed 121s; Mon May 16 11:19:13 2011
+1, 51, 0.4, 500, 0, 0.5; mark = 0.796; time elapsed 121s; Mon May 16 11:19:13 2011
+
+time per set 2.6s, nThreads = 5, nSetsPerThread = 5; time elapsed 130s; Mon May 16 11:23:18 2011
+1, 51, 0.4, 500, 0, 0.6; mark = 0.764; time elapsed 130s; Mon May 16 11:23:18 2011
+
+time per set 2.28s, nThreads = 5, nSetsPerThread = 5; time elapsed 114s; Mon May 16 11:27:37 2011
+1, 51, 0.4, 500, 0, 0.4; mark = 0.856; time elapsed 114s; Mon May 16 11:27:37 2011
+
+time per set 2.36s, nThreads = 10, nSetsPerThread = 5; time elapsed 118s; Mon May 16 11:34:39 2011
+1, 51, 0.4, 500, 0, 0.35; mark = 0.828; time elapsed 118s; Mon May 16 11:34:39 2011
+
+time per set 2.4s, nThreads = 10, nSetsPerThread = 5; time elapsed 120s; Mon May 16 11:41:55 2011
+1, 51, 0.4, 500, 0, 0.45; mark = 0.836; time elapsed 120s; Mon May 16 11:41:55 2011 --12 wrong
+
+time per set 2.4s, nThreads = 10, nSetsPerThread = 5; time elapsed 120s; Mon May 16 11:45:06 2011
+1, 51, 0.4, 500, 0, 0.4; mark = 0.856; time elapsed 120s; Mon May 16 11:45:06 2011 -- 11 wrong
+
+time per set 2.26s, nThreads = 10, nSetsPerThread = 5; time elapsed 113s; Mon May 16 12:25:19 2011
+1, 51, 0.4, 500, 0, 0.4; mark = 0.856; time elapsed 113s; Mon May 16 12:25:19 2011
+
+time per set 3s, nThreads = 1, nSetsPerThread = 5; time elapsed 24s; Mon May 16 15:08:50 2011
+1, 9, 0.4, 500, 0, 0.4; mark = 1; time elapsed 24s; Mon May 16 15:08:50 2011
+
+time per set 4s, nThreads = 1, nSetsPerThread = 5; time elapsed 4s; Mon May 16 15:09:57 2011
+46, 47, 0.4, 500, 0, 0.4; mark = 1; time elapsed 4s; Mon May 16 15:09:57 2011
+
+time per set 3s, nThreads = 1, nSetsPerThread = 5; time elapsed 3s; Mon May 16 15:21:03 2011
+9, 10, 0.4, 500, 0, 0.4; mark = 1; time elapsed 3s; Mon May 16 15:21:03 2011
+
+time per set 3.25s, nThreads = 1, nSetsPerThread = 2; time elapsed 65s; Mon May 16 15:58:59 2011
+1, 21, 0.4, 500, 0, 0.4; mark = 0.98; time elapsed 65s; Mon May 16 15:58:59 2011
+
+time per set 2.18s, nThreads = 5, nSetsPerThread = 2; time elapsed 109s; Mon May 16 16:02:28 2011
+1, 51, 0.4, 500, 0, 0.4; mark = 0.892; time elapsed 109s; Mon May 16 16:02:28 2011
+
+time per set 2.86s, nThreads = 5, nSetsPerThread = 2; time elapsed 143s; Mon May 16 16:07:07 2011
+1, 51, 0.4, 500, 1, 0.25; mark = 0.888; time elapsed 143s; Mon May 16 16:07:07 2011
+
+FINAL DATA SET
+time per set 1.42217s, nThreads = 150, nSetsPerThread = 20; time elapsed 8533s; Mon May 16 18:33:02 2011
+1, 6001, 0.4, 500, 0, 0.4; mark = 0; time elapsed 8533s; Mon May 16 18:33:02 2011
+
